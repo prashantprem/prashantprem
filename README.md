@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **premifsb@gmail.com**
 
-- ⚡ Fun fact **I don't like cofee.**
+- ⚡ Fun fact **I don't like coffee.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
