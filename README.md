@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Android, Firebase, Flutter.**
 
-- 📫 How to reach me **premifsb@gmail.com**
+- 📫 How to reach me **prashantupadhyay3107@gmail.com**
 
 - ⚡ Fun fact **I don't like coffee.**
 
