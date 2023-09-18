@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantprem&label=Profile%20views&color=0e75b6&style=flat" alt="prashantprem" /> </p>
 
-- 💬 Ask me about **Android, Firebase, Flutter.**
+- 💬 Ask me about **Android, Flutter, Firebase, .**
 
 - 📫 How to reach me **prashantupadhyay3107@gmail.com**
 
