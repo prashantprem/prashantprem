@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantprem&label=Profile%20views&color=0e75b6&style=flat" alt="prashantprem" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
-
 - 💬 Ask me about **Android, Firebase, Flutter.**
 
 - 📫 How to reach me **prashantupadhyay3107@gmail.com**
